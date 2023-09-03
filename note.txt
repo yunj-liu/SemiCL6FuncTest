@@ -1,0 +1,7 @@
+06SemiCL6FuncTest
+template choose Qt Console Application. Build system choose CMake, Kit choose MSVC2019, VCS choose Git
+
+matlab function name: SemiCL6Func
+matlab m file name: SemiCL6Func.m
+matlab project name: SemiCL6Func
+deploy matlab project directory name: F:\MatlabTest\SemiCL6Func_vc19
